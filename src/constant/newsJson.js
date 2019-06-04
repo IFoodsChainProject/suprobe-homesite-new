@@ -29,7 +29,7 @@ const NEWS = [{
               奖励在项目参与、硬件推广、理念传播上有突出表现的超极探针持有者`
 }, // 此处开始增加新的新闻
 {
-  img: '/static/img/news/news9/1.webp',
+  img: '/static/img/news/news9/1.png',
   path: '2019-06-04',
   href: 'https://mp.weixin.qq.com/s?__biz=MzU3NTQ0NDg2OA==&mid=2247484718&idx=1&sn=da2ed17ccab56dd339e7e0cbb87fd059&chksm=fd2247c5ca55ced360165ca64da20ae7c25b45678779148ea879c541376a8e1e7c517c7aae55&token=678246237&lang=zh_CN#rd',
   title: '【项目动态】食安链助力食品科技创新发展 荣获“2019年中国食品供应链创新企业”',
