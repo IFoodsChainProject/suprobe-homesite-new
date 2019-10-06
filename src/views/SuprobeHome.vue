@@ -10,7 +10,7 @@
   </home-download>
   <home-download class="andriod-download">
     <span slot="title">Andriod 下载</span>
-    <img slot="content" src="/static/img/home/download-andriod.png" width="80px">
+    <img slot="content" src="/static/img/home/download-andriod-v1.2.10.png" width="80px">
   </home-download>
 </div>
 </template>

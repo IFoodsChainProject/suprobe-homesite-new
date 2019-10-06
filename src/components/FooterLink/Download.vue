@@ -18,7 +18,7 @@
               </a>
           </section>
           <section>
-            <img src="/static/img/home/download-andriod.png" >
+            <img src="/static/img/home/download-andriod-v1.2.10.png" >
             <a :href="prodLink.DOWNLOAD_ANDRIOD" >
                 <i class="icon iconfont">&#xe68d;</i>
                 <span>Andriod</span>
